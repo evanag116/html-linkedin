@@ -1,1 +1,35 @@
-/* write styles here */
+.profile-photo {
+    border-radius: 50%;
+}
+
+.name {
+    font-weight:600;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+    font-size: 24px;
+}
+
+.title {
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+}
+
+.city {
+    font-weight:400;
+    color: rgba(0,0,0,0.6);
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+}
+
+.info {
+    background: transparent;
+}
+
+.cover-photo {
+    border-radius: 8px;
+}
+
+#blue-pic {
+    height: 197px;
+    width: 788px;
+    
+}
